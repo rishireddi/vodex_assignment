@@ -24,11 +24,13 @@ Prerequisites
 1. Clone the Repository
 
     git clone https://github.com/rishireddi/vodex_assignment.git
+
     cd vodex_assignment
 
 2. Set up a Virtual Environment
 
     python3 -m venv env
+    
     source env/bin/activate  # On Windows use `env\Scripts\activate`
 
 3. Install the Dependencies
